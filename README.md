@@ -1,1 +1,4 @@
 # Analisis-Sentimen-Global-terhadap-Brand-Personal-Cristiano-Ronaldo
+
+### Penelitian ini bertujuan untuk menganalisis sentimen global terhadap brand personal Cristiano Ronaldo melalui komentar pada akun YouTube resminya. Dengan menggunakan metode statistik inferensial dan algoritma Naive Bayes, penelitian ini mengkaji opini publik dari 35.159 komentar yang diperoleh melalui proses crawling data. Data dianalisis melalui tahapan preprocessing, pelabelan, dan klasifikasi untuk mengidentifikasi sentimen serta tema utama. Hasil analisis menunjukkan bahwa sentimen positif mendominasi, terutama dalam kategori "Respon Emosional Penggemar", yang menyoroti dukungan publik terhadap Ronaldo sebagai ikon global. Temuan ini diharapkan dapat menjadi acuan bagi manajemen Ronaldo dalam mengelola reputasi dan citra publik secara efektif di media sosial.
+
